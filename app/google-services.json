@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "591836280779",
+    "project_id": "book-app-64fe4",
+    "storage_bucket": "book-app-64fe4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591836280779:android:650d0adb62e3148466e84e",
+        "android_client_info": {
+          "package_name": "com.konar.bookapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591836280779-ngaebldsqlkuqrc70b6che00moddlni5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfoVbWMt81mIpIVkPzQ6a-ujGL3mn5yBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591836280779-ngaebldsqlkuqrc70b6che00moddlni5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
