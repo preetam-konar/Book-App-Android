@@ -38,10 +38,10 @@ class RegisterActivity : AppCompatActivity() {
     private var password = ""
 
     private fun validateData() {
-        name = binding.etUname.text.toString()
-        email = binding.etEmail.text.toString()
-        password = binding.etUname.text.toString()
-        val cpassword = binding.etPasswordConfirm.text.toString()
+        name = binding.etUname.text.toString().trim()
+        email = binding.etEmail.text.toString().trim()
+        password = binding.etUname.text.toString().trim()
+        val cpassword = binding.etPasswordConfirm.text.toString().trim()
 
         if (name.isEmpty()) {
             Toast.makeText(this, "Enter user name...", Toast.LENGTH_SHORT).show()
